@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning **JS**
 
-- 📫 How to reach me **Discord Lafix#7777**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
